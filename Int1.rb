@@ -1,7 +1,5 @@
 #Coding Exercise at Kiprosh
 
-
-
 puts "Please enter your text"
 text = gets.chomp!
 
